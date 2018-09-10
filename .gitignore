@@ -13,8 +13,12 @@ _book
 # eBook build output
 *.epub
 *.mobi
+<<<<<<< HEAD
 *.pdf
 
 version.md
 gopl-zh-*
 _book.zip
+=======
+*.pdf
+>>>>>>> 2c2a803dadf2cbfed6b3c2b8b34971b54a42e76c
