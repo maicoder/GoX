@@ -56,4 +56,5 @@ Go语言圣经 [《The Go Programming Language》](http://gopl.io) 中文版本�
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
-[原项目地址](https://github.com/gopl-zh/gopl-zh.github.com)
+-  Go语言圣经中文版 [https://github.com/golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)
+- 镜像地址 [https://github.com/gopl-zh/gopl-zh.github.com](https://github.com/gopl-zh/gopl-zh.github.com)
